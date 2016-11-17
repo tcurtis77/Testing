@@ -8,7 +8,7 @@ namespace TestLibrary
 {
     public class Class1
     {
-
-        public String "Here is my class" { get; set; }
+        //Fixed some shit.
+        public String Bob "Here is my class" { get; set; }
     }
 }
