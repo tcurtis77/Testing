@@ -11,5 +11,6 @@ namespace TestLibrary
         //Fixed some shit.
         public String Bob { get; set; }
 
+        public int somethingelse { get; set; }
     }
 }
